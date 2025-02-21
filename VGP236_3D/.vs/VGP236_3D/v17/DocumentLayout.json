@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\",
+  "WorkspaceRootPath": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|c:\\users\\23259\\documents\\github\\vgp236-unity-project-2\\vgp236_3d\\assets\\script\\pistontrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pistontrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|c:\\users\\lcv2343873\\documents\\github\\vgp236-unity-project-2\\vgp236_3d\\assets\\script\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|c:\\users\\23259\\documents\\github\\vgp236-unity-project-2\\vgp236_3d\\assets\\script\\checkpoint_trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|c:\\users\\lcv2343873\\documents\\github\\vgp236-unity-project-2\\vgp236_3d\\assets\\script\\finalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\finalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\assets\\script\\checkpoint_trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\checkpoint_trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465F680E-4C47-4A43-3678-B933A8FD853A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PistonTrap.cs",
-              "DocumentMoniker": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\PistonTrap.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PistonTrap.cs",
-              "ToolTip": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\PistonTrap.cs",
-              "RelativeToolTip": "Assets\\Script\\PistonTrap.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADgvzUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:14:44.672Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Checkpoint_Trigger.cs",
-              "DocumentMoniker": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Checkpoint_Trigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Checkpoint_Trigger.cs",
-              "ToolTip": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Checkpoint_Trigger.cs",
-              "RelativeToolTip": "Assets\\Script\\Checkpoint_Trigger.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAAA5AAAAAAAAAA==",
+              "Title": "Finalpoint.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Finalpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Finalpoint.cs",
+              "ToolTip": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Finalpoint.cs",
+              "RelativeToolTip": "Assets\\Script\\Finalpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:38:54.291Z",
+              "WhenOpened": "2025-02-21T05:48:39.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\23259\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerHealth.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAAFAAAAAAAAAA==",
+              "Title": "Checkpoint_Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Checkpoint_Trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Checkpoint_Trigger.cs",
+              "ToolTip": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\Checkpoint_Trigger.cs",
+              "RelativeToolTip": "Assets\\Script\\Checkpoint_Trigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:26:54.76Z"
+              "WhenOpened": "2025-02-21T05:32:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TimeManager.cs",
+              "ToolTip": "C:\\Users\\LCV2343873\\Documents\\GitHub\\VGP236-Unity-Project-2\\VGP236_3D\\Assets\\Script\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TimeManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:47:32.856Z",
+              "EditorCaption": ""
             }
           ]
         }
